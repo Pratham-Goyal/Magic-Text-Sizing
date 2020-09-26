@@ -1,0 +1,56 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Mogra', cursive;
+    font-size: 20px;
+  }
+
+  .heading{
+    font-family: 'Henny Penny', cursive;
+    font-size: 40px;
+    text-decoration: underline;
+    background-color: darkslategrey;
+    box-shadow: 5px 5px 5px gray;
+    color: white;
+    margin-top: 0;
+  }
+
+  .head_img{
+      height: 80px;
+      margin-left: 3px;
+      width: 120px;
+      border: 2px solid black;
+  }
+
+  .heading1{
+      box-shadow: 5px 5px 5px gray;
+      margin-top: 5px;
+      background-color: brown;
+  }
+
+  canvas{
+    border-radius: 40px;
+    border: 5px solid black;
+    box-shadow: 5px 18px 18px gray;
+    background-color: wheat;
+  }
+
+  .hi{
+    width: 120px;
+    height: 100px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px white;
+    margin-left: 10px;
+  }
+
+  video{
+    border: 3px solid black;
+    background-image: url("b1.jpg");
+  }
